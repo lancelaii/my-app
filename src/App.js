@@ -5,7 +5,7 @@ function App() {
     <div>
       <h1>Hello, React!</h1>
       <p>Welcome to my simple React app.</p>
-	  <p>some changes 533pm</p>
+	  <p>some changes 12 Jun 927am</p>
     </div>
   );
 }
